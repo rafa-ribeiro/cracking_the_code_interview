@@ -32,3 +32,9 @@ Repository for the study of the book: Cracking the Coding Interview - 189 Progra
     5. Walk through - Review your solution
     6. Implement - write a beautiful code
     7. Test -  Is your solution working?
+
+
+BUD Optimization:
+- **B**ottlenecks
+- **U**nnecessary Work
+- **D**uplicated Work
